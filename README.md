@@ -28,17 +28,33 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * * *
 
+### 如何为列表贡献新资源？
+
+欢迎大家为列表贡献高质量的新资源，提交PR时请参照以下要求：
+
+* 请确保推荐的资源自己使用过
+* 提交PR时请注明推荐理由
+
+资源列表管理收到PR请求后，会定期（每周）在微博转发本周提交的PR列表，并在微博上面听取使用过这些资源的意见。确认通过后，会加入资源大全。
+
+感谢您的贡献！
+
+* * *
+
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[Erucy](http://www.jobbole.com/members/Erucy)、[heavenwing](https://github.com/heavenwing)、[Podolski](https://github.com/circler3)、[JRoger](https://github.com/Oger-Me)、你
+- 贡献者：[Erucy](http://www.jobbole.com/members/Erucy)、[heavenwing](https://github.com/heavenwing)、[Podolski](https://github.com/circler3)、[JRoger](https://github.com/Oger-Me)、[cuibty](https://github.com/cuibty)、你
 
 注：名单不分排名，不定期补充更新
 
-### 最新活动
+### 奖励计划
 
-* **贡献打赏：**整理 20 个资源以上的朋友会开通打赏功能，参见[Dropwizard](http://hao.jobbole.com/dropwizard/)结尾打赏信息。
-* **整理技术资源，赠送经典书籍**： 每整理 20 个资源，赠送技术书籍一本。[活动详情](http://group.jobbole.com/13769/)
+虽然奖励可能并不是你加入的主要原因，但还是有必要提一下：
+
+* 整理超过 20 个资源后，可在伯乐在线上开通打赏；
+* 每整理 20 个资源，有机会获得技术书籍或各种有意思的创意、极客产品；
+* [奖励详情](http://hao.jobbole.com/rewards/)
 
 * * *
 
@@ -212,6 +228,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Sandcastle：Sandcastle 帮助文件生成器和 NDoc 类似。[官网](http://shfb.codeplex.com/)
 *   SharpDox：一个 c# 文档工具。[官网](https://github.com/Geaz/sharpDox)
 *   Swashbuckle：向 WebApi 项目无缝地添加 swagger 文档（译者注：swagger 是一套用于生成、描述、展现 RESTful 风格 web 服务文档的框架和规范）。[官网](https://github.com/domaindrivendev/Swashbuckle)
+*   NSwag：通过Swagger规范生成.NET、TypeScript的Web API客户端。[官网](https://github.com/NSwag/NSwag)
 *   F# Formatting：F# 和 C# 项目的文档工具，文档生成自 F# 脚本文件、Markdown 文档、内嵌 XML 或 Markdown评论。[官网](http://tpetricek.github.io/FSharp.Formatting/)
 
 ## 电子商务和支付（E-Commerce and Payments）
@@ -347,6 +364,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Serilog：一个 NoSQL 时代下简单直接的日志库。将多个优秀的传统结构化分析日志功能合并到一个易于使用的程序集中。[官网](https://github.com/serilog/serilog)
 *   StackExchange.Exceptional：Stack Exchange 网络使用的错误处理程序。[官网](https://github.com/NickCraver/StackExchange.Exceptional)
 *   Semantic Logging Application Block (SLAB)：为内置 System.Diagnostics.Tracing 命名空间（EventSource类）扩展功能，支持将日志记录到多个容器中，包括 Azure 表存储、数据库、文件（JSON、XML、文本文件）。通过 ETW 支持进程内和进程外的日志记录，支持 Rx 进行实时的事件过滤和聚合。[官网](http://slab.codeplex.com/)
+*   Exceptionless：一个免费开源分布式系统的日志收集框架，它可以应用在基于 ASP.NET，ASP.NET Core，Web Api，Web Forms，WPF，Console，MVC 等技术栈的应用程序中，并且提供了Rest接口可以应用在 Javascript，Node.js 中。[官网](http://exceptionless.com/) [Github](https://github.com/exceptionless/Exceptionless)
 
 ## 机器学习和数据科学（Machine Learning and Data Science）
 
@@ -418,7 +436,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ## Office
 
 *   ClosedXML：ClosedXML 能够让开发人员更便捷地创建 Excel 2007、2010 文件。[官网](https://closedxml.codeplex.com/)
-*   NPOI：该项目是 .NET 版本的 POI 项目，原始的 Java 版本位于[http://poi.apache.org/](http://poi.apache.org/) 。[官网](http://npoi.codeplex.com/)
+*   [NPOI](http://hao.jobbole.com/npoi/)：该项目是 .NET 版本的 POI 项目，原始的 Java 版本位于[http://poi.apache.org/](http://poi.apache.org/) 。[官网](http://npoi.codeplex.com/)
 *   [EPPlus](http://hao.jobbole.com/epplus/)：EPPlus 是一个 .net 类库，用于读写 Open Office Xml 格式的 Excel 2007、2010 文件（xlsx）。[官网](http://epplus.codeplex.com/)
 *   Open XML SDK：Open XML SDK 是一个开源库，用于处理 Open XML 文档（包括 DOCX、XLSX 和 PPTX）。[官网](https://github.com/officedev/open-xml-sdk)
 
@@ -458,7 +476,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   NServiceBus：.NET 平台下最流行的服务总线。[官网](https://github.com/Particular/NServiceBus)
 *   RabbitMQ.NET：AMQP 客户端的 C# 实现，通过 WCF 绑定到已有的 AMQP 服务。[官网](http://hg.rabbitmq.com/rabbitmq-dotnet-client/)
-*   NetMQ：NetMQ 是 ZeroMQ 纯 C# 移植版本。[官网](https://github.com/zeromq/netmq)
+*   [NetMQ](http://hao.jobbole.com/netmq/)：NetMQ 是 ZeroMQ 纯 C# 移植版本。[官网](https://github.com/zeromq/netmq)
 *   MassTransit：MassTransit 是一个精简服务总线（lean service bus）的实现，使用 .NET Framework 来构建松耦合应用程序。[官网](https://github.com/MassTransit/MassTransit)
 *   Rebus：Rebus 是一个 .NET 平台的精简服务总线和 NServiceBus、MassTransit类似，只不过更加精简。[官网](https://github.com/rebus-org/Rebus)
 *   EasyNetQ：易于使用的 RabbitMQ .NET API。[官网](https://github.com/mikehadlow/EasyNetQ)
@@ -471,8 +489,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ## 计划调度（Scheduling）
 
-*   QuartzNet：Quartz 是 .NET 平台的企业级调度器。[官网](https://github.com/quartznet/quartznet)
+*   [QuartzNet](http://hao.jobbole.com/quartz-net/)：Quartz 是 .NET 平台的企业级调度器。[官网](https://github.com/quartznet/quartznet)
 *   Hangfire：在 ASP.NET 应用中，超简单地实现自主引导（fire-and-forget）、延迟和周期重复任务。高级版需要收费。[官网](https://github.com/HangfireIO/Hangfire)
+*   Hangfire.Redis.StackExchange：Hangfire的redis扩展库，基于StackExchange.Redis的开源实现。[官网](https://github.com/marcoCasamento/Hangfire.Redis.StackExchange)
 *   Azure WebJobs：Azure WebJobs 是Azure中App Services一个附属服务，为Azure中运行的Web App提供后台运行环境（支持多种语言编写Job），有.NET的SDK[开源](https://github.com/Azure/azure-webjobs-sdk)，并且可以直接添加扩展[也开源](https://github.com/Azure/azure-webjobs-sdk-extensions)。[官网](https://azure.microsoft.com/en-us/documentation/articles/app-service-webjobs-readme/)
 
 ## SDK 和 API 客户端（SDK and API Clients）
@@ -576,11 +595,16 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Websocket-Sharp：WebSocket 协议的 C# 实现，包含客户端和服务器端。[官网](https://github.com/sta/websocket-sharp)
 *   XSockets：提供了一组工具，可以在微软 .NET 等平台上构建一个实时应用程序。[官网](http://xsockets.net/)
 *   WebSocket4NET：.NET 2.0+、Xamarin、Mono、Silverlight、Windows Phone 以及 WinRT 下的 WebSocket 客户端。[官网](https://websocket4net.codeplex.com)
-*   SuperSocket：一个轻量级, 跨平台而且可扩展的 .Net/Mono Socket 服务器程序框架。[官网](http://www.supersocket.net/)
+*   [SuperSocket](http://hao.jobbole.com/supersocket/)：一个轻量级, 跨平台而且可扩展的 .Net/Mono Socket 服务器程序框架。[官网](http://www.supersocket.net/)
 
 ## Windows 服务（Windows Services）
 
 *   TopShelf：一个简单的服务宿主框架，使用 .NET 构建 Windows 服务。[官网](https://github.com/Topshelf/Topshelf)
+
+## 通讯框架（Communication Frameworks）
+
+*   DotNetty：一个快速开发高性能、高可靠性的非阻塞的事件驱动网络应用框架。[官网](https://github.com/Azure/DotNetty)
+*   Helios：一套高性能的Socket通信中间件。[官网](https://github.com/helios-io/helios)
 
 ## 其他列表（Other Lists）
 
